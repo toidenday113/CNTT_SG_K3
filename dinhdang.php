@@ -7,17 +7,15 @@
     <title>Document</title>
 
     <style>
-    #wrap {
-        margin: auto;
-        width: 400px;
-        text-align: center;
-    }
+        #wrap {
+            margin: auto;
+            width: 400px;
+        }
 
-    table {
-
-        margin: auto;
-        background-color: #fecccd;
-    }
+        table {
+            margin: auto;
+            background-color: #fecccd;
+        }
     </style>
 </head>
 
